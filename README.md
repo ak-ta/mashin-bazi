@@ -1,1 +1,2 @@
-# mashin-bazi
+# bazi
+bazi bazi tamasha
